@@ -11,12 +11,4 @@ Criador amador de páginas web. Meu objetivo é desenvolver projetos e testar as
 </p>
 
 
-<br>
-<br>
 
-<h1 align="center"> Estatísticas do GitHub</h1>
-<div align="center">
-  <a href="https://github.com/V-32">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=V-32&theme=high-contrast)](https://github.com/V-32/github-readme-activity-graph)">
-  </a>
-</div>
