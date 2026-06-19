@@ -18,8 +18,4 @@ Criador amador de páginas web. Meu objetivo é desenvolver projetos e testar as
 <br>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-32&theme=dark"/>
 
-
-
-</div>
